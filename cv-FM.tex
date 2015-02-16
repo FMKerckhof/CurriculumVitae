@@ -1,0 +1,135 @@
+\documentclass[a4paper,11pt,oneside]{article}
+\usepackage{a4wide}                     % Iets meer tekst op een bladzijde
+\usepackage[dutch]{babel}               % Voor nederlandstalige hyphenatie (woordsplitsing)
+\usepackage{amsmath}                    % Uitgebreide wiskundige mogelijkheden
+\usepackage{amssymb}                    % Voor speciale symbolen zoals de verzameling Z, R...
+\usepackage{url}                        % Om url's te verwerken
+\usepackage{graphicx}                   % Om figuren te kunnen verwerken
+\usepackage[small,bf,hang]{caption2}    % Om de captions wat te verbeteren
+\usepackage{xspace}                     % Magische spaties na een commando
+\usepackage[latin1]{inputenc}           % Om niet ascii karakters rechtstreeks te kunnen typen
+\usepackage{float}                      % Om nieuwe float environments aan te maken. Ook optie H!
+\usepackage{flafter}                    % Opdat floats niet zouden voorsteken
+\usepackage{listings}                   % Voor het weergeven van letterlijke text en codelistings
+\usepackage{marvosym}                   % Om het euro symbool te krijgen
+\usepackage{textcomp}                   % Voor onder andere graden celsius
+\usepackage{fancyhdr}                   % Voor fancy headers en footers.
+\usepackage{graphics}			% Om figuren te verwerken.
+\newcommand{\npar}{\par \vspace{2.3ex plus 0.3ex minus 0.3ex} \noindent}	% Om witruimte te krijgen tussen paragrafen
+\hyphenation{stu-den-ten-ver-te-gen-woor-di-ger op-lei-dings-com-mis-sies com-pu-ter-com-mis-sies fa-cul-teits-raad 
+In-ge-nieurs-We-ten-schap-pen}
+\graphicspath{{figuren/}}               % De plaars waar latex zijn figuren gaat halen.
+
+% Nieuw commando om figuren in te voegen. Gebruik:
+% \mijnfiguur[H]{width=5cm}{bestandsnaam}{Het bijschrift bij deze figuur}
+\newcommand{\mijnfiguur}[4][ht]{            % Het eerste argument is standaar `ht'.
+    \begin{figure}[#1]                      % Beginnen van de figure omgeving
+        \begin{center}                      % Beginnen van de center omgeving
+            \includegraphics[#2]{#3}        % Het eigenlijk invoegen van de figuur (2: opties, 3: bestandsnaam)
+            \caption{#4\label{#3}}          % Het bijschrift (argument 4) en het label (argument 3)
+        \end{center}
+    \end{figure}
+    }
+%opening
+\title{Curriculum Vitae}
+\author{Frederiek - Maarten Kerckhof}
+
+\begin{document}
+
+\maketitle
+
+\section{Personalia}
+\begin{itemize}
+  \item Naam: Kerckhof
+  \item Voornaam: Frederiek - Maarten
+  \item Adres: Egidius van Bredenestraat 6, 8340 Sijsele (Damme)
+  \item Bereid te verhuizen
+  \item GSM: 0477/98.13.12
+  \item E-mail: frederiekmaarten.kerckhof@gmail.com
+  \item Geboortedatum: 14 november 1988
+  \item Geboorteplaats: Brugge
+\end{itemize}
+\section{Doelen}
+Graag zou ik een onderzoekstaak willen uitvoeren in de industrële biotechnologische sector en dan meer bepaald in de duurzame en milieugerichte microbiële technologie. Door mijn opleiding als bio-ingenieur in de cel en gen biotechnologie en persoonlijke interesse ben ik vooral geschikt voor een functie in onderzoek en ontwikkeling. Door mijn sociale vaardigheden en organisatietalent kan ik goed in een onderzoeksteam samenwerken en indien mogelijk een coördinerende functie opnemen.\\
+Ook een taak in consultancy voor onderzoeksprojecten spreekt mij aan. Ik heb een brede basiskennis van moleculaire technieken en houd van uitdagende projecten.
+\section{Opleiding}
+\begin{itemize}
+\item 2000-2006: (secundair onderwijs) Latijn - Wiskunde, Onze-Lieve-Vrouwecollege Assebroek
+\item \textbf{2006-heden: Bio - ingenieur in de Cel en Gen Biotechnologie, major computationele biologie}. Diploma verwacht juli 2011.
+	\begin{itemize}
+		\item Bachelorproef: 'Competitie en Diversiteit, een schijnbare tegenstelling'. Omtrent mathematische modellering van ecologische competitie op macro- en micro-ecologische schaal en mogelijke toepassingen (pre-emptieve kolonisatie, pre- en pro-biotica).
+		\item Project Statistiek voor Genoomanalyse en Bio-Informatica 2: analyse van 454-pyrosequencing metagenomics data
+		\item Masterthesis: 'Onconventionele elektron-donoren en -acceptoren voor microbiële ecosystemen'. Fundamenteel onderzoek naar microbële fysiologie in Bio-elektrochemische systemen (microbiële brandstofcellen).
+	\end{itemize}
+
+\end{itemize}
+
+\section{Werkervaring}
+\begin{itemize}
+\item Studentenjobs
+	\begin{itemize}
+	\item zomers 2005-2007: Convoyeur bij Krëfel nv. Brugge.\\ Helpen met levering en aansluiten van huishoudelijke elektronica en multimedia apparatuur.
+	\item zomer 2004: Bandwerk bij Destrooper, Oostkamp. Diverse taken.
+	\end{itemize}
+\item Vrijwilligerswerk
+	\begin{itemize}
+	\item 2006-2010 Scoutsleider scouts en gidsen Vlaanderen Don Bosco, elk jaar takverantwoordelijke.
+	\item 2007-2009 Materiaalmeester scouts Don Bosco.
+	\item 2009-heden Groepsleider van scouts Don Bosco. Verantwoordelijk voor externe communicatie, subsidiëring, vorming van de leidersploeg.
+	\item 2010-heden Afgevaardige van mijn vereniging in de algemene Brugse jeugdraad.
+	\end{itemize}
+\item Extracurriculaire activiteiten
+	\begin{itemize}
+	\item 2004-2006 Redactie en technische staff bij OINC - TV: OLVA's informatie- nieuws- en cultuurtelevisie. Camera, geluid, montage en eindredactie.
+	\item 2004-2006 Verkozen vertegenwoordiger in de leerlingenraad, werkgroepencoördinator.
+	\item 2009-heden Klasverantwoordelijke Cel en Gen biotechnologie (examenroosters opstellen, zetelen in facultaire studentenraad).
+	\item 2003-heden Geluidstechnicus op diverse kleinere shows en optredens.
+	\end{itemize}
+\end{itemize}
+
+\section{Vaardigheden}
+\subsection{ICT-vaardigheden}
+	\begin{itemize}
+	\item Algemeen: 
+\begin{itemize}
+	\item vertrouwd met zowel Windows en Mac Os besturingssystemen
+	\item vertrouwd met MS Office: geavanceerd met Word, Powerpoint, Excel en Outlook.
+	\item vertrouwd met LaTeX
+\end{itemize}
+ \item Programmeren: 
+\begin{itemize}
+	\item perl, bioperl
+	\item basis Java, HTML en Visual Basic
+\end{itemize}
+ \item Specifieke software:
+ 
+\begin{itemize}
+	\item basiskennis bionumerics 
+	\item ImageJ voor microscopische beeldanalyse
+\end{itemize}
+ \item Mathematische software:
+ 
+\begin{itemize}
+	\item R, bioconductor
+	\item Tibco Spotfire S+
+	\item TheMathWorks MATLAB
+	\item Wolfram Mathematica
+\end{itemize}
+\end{itemize}
+\subsection{Labvaardigheden}
+\begin{itemize}
+	\item Vertrouwd met standaard chemische analysetechnieken in microbieel onderzoek (CDW, Kjehldahl, COD, SCFA-GC, IC, ...).
+	\item Vertrouwd met DGGE voor moleculaire fingerprinting van microbiële gemeenschappen
+	\item Vertrouwd met het gebruik van een flowcytometer
+	\item Inleiding tot werken in BSL-3 lab
+	\item Vertrouwd met standaard moleculaire analystechnieken (PCR)
+\end{itemize}	
+
+\subsection{Talenkennis}
+\begin{itemize}
+	\item Nederlands: moedertaal.
+	\item Frans: lezen en schrijven (goed), spreken (gemiddeld)
+	\item Engels: lezen, scrhijven en spreken (goed)
+	\item Duits: notie
+\end{itemize}
+\end{document}

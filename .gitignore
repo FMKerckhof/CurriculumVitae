@@ -107,4 +107,8 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+
+#rstudio
 .Rproj.user
+.Rhistory

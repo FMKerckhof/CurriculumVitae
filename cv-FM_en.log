@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.31)  31 MAR 2015 02:44
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.31)  6 AUG 2015 11:33
 entering extended mode
 **cv-FM_en.tex
 (C:\Users\fpkerckh\Documents\Dropbox\CV\CV\cv-FM_en.tex
@@ -500,25 +500,25 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 
 {C:/Users/fpkerckh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
 (C:\Users\fpkerckh\Documents\Dropbox\CV\CV\cv-FM_en.bbl [4] [5])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 140.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 146.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 140.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 146.
 
 (C:\Users\fpkerckh\Documents\Dropbox\CV\CV\cv-FM_en.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 140.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 140.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 146.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 146.
 Package rerunfilecheck Info: File `cv-FM_en.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 140.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 146.
  ) 
 Here is how much of TeX's memory you used:
- 9701 strings out of 494045
- 142159 string characters out of 3145960
+ 9702 strings out of 494045
+ 142170 string characters out of 3145960
  228955 words of memory out of 3000000
  12831 multiletter control sequences out of 15000+200000
  12039 words of font info for 45 fonts, out of 3000000 for 9000
  720 hyphenation exceptions out of 8191
- 36i,6n,43p,1508b,486s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,6n,43p,1508b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\fpkerckh\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
 00\tcrm1095.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
@@ -527,9 +527,9 @@ mi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
 0.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
 fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv-FM_en.pdf (6 pages, 127638 bytes).
+Output written on cv-FM_en.pdf (6 pages, 128599 bytes).
 PDF statistics:
- 112 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
+ 113 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

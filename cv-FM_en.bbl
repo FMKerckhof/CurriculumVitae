@@ -1,47 +1,88 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{33}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
-\bibitem[{Allais \emph{et~al.}(2014)Allais, Kerckhof, Verscheure, Bracke,
-  De~Smet, Laukens, Van~den Abbeele, De~Vos, Boon, Brusselle
+\bibitem[{Allais \emph{et~al.}(2013{\natexlab{a}})Allais, Kerckhof, Verscheure,
+  Bracke, De~Smet, Laukens, De~Vos, Boon, Brusselle, Van~de Wiele \&
+  Cuvelier}]{5799265}
+Allais, L., Kerckhof, F.-M., Verscheure, S., Bracke, K., De~Smet, R., Laukens,
+  D., De~Vos, M., Boon, N., Brusselle, G., Van~de Wiele, T. \& Cuvelier, C.
+  (2013{\natexlab{a}}).
+\newblock Chronic cigarette smoke exposure alters the murine gut microbiome.
+\newblock In \emph{Mucosal Immunology, 16th International congress, Abstracts}.
+  Society for Mucosal Immunology.
+
+\bibitem[{Allais \emph{et~al.}(2014{\natexlab{a}})Allais, Kerckhof, Verscheure,
+  Bracke, De~Smet, Laukens, Van~den Abbeele, De~Vos, Boon, Brusselle
   \emph{et~al.}}]{allais2014effect}
 Allais, L., Kerckhof, F.-M., Verscheure, S., Bracke, K., De~Smet, R., Laukens,
   D., Van~den Abbeele, P., De~Vos, M., Boon, N., Brusselle, G. \emph{et~al.}
-  (2014).
+  (2014{\natexlab{a}}).
+\newblock The effect of chronic cigarette smoke exposure on gut microbial
+  diversity in healthy mice.
+\newblock In \emph{9th Joint symposium Rowett-INRA 2014: Gut microbiology: from
+  sequence to function}.
+
+\bibitem[{Allais \emph{et~al.}(2014{\natexlab{b}})Allais, Kerckhof, Verscheure,
+  Bracke, De~Smet, Laukens, Van~den Abbeele, De~Vos, Boon, Brusselle
+  \emph{et~al.}}]{allais2014effectBSFM}
+Allais, L., Kerckhof, F.-M., Verscheure, S., Bracke, K., De~Smet, R., Laukens,
+  D., Van~den Abbeele, P., De~Vos, M., Boon, N., Brusselle, G. \emph{et~al.}
+  (2014{\natexlab{b}}).
 \newblock The effect of chronic cigarette smoke exposure on the gut microbiome
   in healthy mice.
 \newblock In \emph{BSM Annual meeting 2014: Cell signaling in host-microbe
   interactions}. Belgian Society for Food Microbiology (BSFM).
 
-\bibitem[{Allais \emph{et~al.}(2013{\natexlab{a}})Allais, Kerckhof, Verschuere,
+\bibitem[{Allais \emph{et~al.}(2013{\natexlab{b}})Allais, Kerckhof, Verschuere,
+  Bracke, De~Smet, Laukens, De~Vos, Boon, Brusselle, Van~de Wiele \&
+  Cuvelier}]{3158241}
+Allais, L., Kerckhof, F.-M., Verschuere, S., Bracke, K., De~Smet, R., Laukens,
+  D., De~Vos, M., Boon, N., Brusselle, G., Van~de Wiele, T. \& Cuvelier, C.
+  (2013{\natexlab{b}}).
+\newblock Chronic cigarette smoke exposure alters the murine gut microbiome.
+\newblock In \emph{ACTA GASTRO-ENTEROLOGICA BELGICA}, volume~76.
+\newblock ISSN 0001-5644.
+
+\bibitem[{Allais \emph{et~al.}(2013{\natexlab{c}})Allais, Kerckhof, Verschuere,
   Bracke, De~Smet, Laukens, De~Vos, Boon, Brusselle, Van~de Wiele
   \emph{et~al.}}]{allais2013chronic}
 Allais, L., Kerckhof, F.-M., Verschuere, S., Bracke, K., De~Smet, R., Laukens,
   D., De~Vos, M., Boon, N., Brusselle, G., Van~de Wiele, T. \emph{et~al.}
-  (2013{\natexlab{a}}).
+  (2013{\natexlab{c}}).
 \newblock Chronic cigarette smoke exposure alters the murine gut microbiome.
 \newblock In \emph{8th Congress of ECCO}, pp. 167--167. European Crohn's and
   Colitis Organisation (ECCO).
 
-\bibitem[{Allais \emph{et~al.}(2013{\natexlab{b}})Allais, Kerckhof, Verschuere,
+\bibitem[{Allais \emph{et~al.}(2013{\natexlab{d}})Allais, Kerckhof, Verschuere,
   Bracke, De~Smet, Laukens, Devos, Boon, Brusselle, Van~de Wiele
   \emph{et~al.}}]{allais2013p694}
 Allais, L., Kerckhof, F.-M., Verschuere, S., Bracke, K., De~Smet, R., Laukens,
   D., Devos, M., Boon, N., Brusselle, G., Van~de Wiele, T. \emph{et~al.}
-  (2013{\natexlab{b}}).
+  (2013{\natexlab{d}}).
 \newblock P694 chronic cigarette smoke exposure alters the murine gut
   microbiome.
 \newblock \emph{Journal of Crohn's and Colitis}, 7(Supplement 1):S289--S289.
 
-\bibitem[{Benner \emph{et~al.}(2014)Benner, De~Smet, Ho, Kerckhof, Vanhaecke,
-  Heylen \& Boon}]{benner2014exploring}
+\bibitem[{Allais \emph{et~al.}(2015)Allais, Kerckhof, Verschuere, Bracke,
+  De~Smet, Laukens, Van~den Abbeele, De~Vos, Boon, Brusselle
+  \emph{et~al.}}]{allais2015chronic}
+Allais, L., Kerckhof, F.-M., Verschuere, S., Bracke, K.~R., De~Smet, R.,
+  Laukens, D., Van~den Abbeele, P., De~Vos, M., Boon, N., Brusselle, G.~G.
+  \emph{et~al.} (2015).
+\newblock Chronic cigarette smoke exposure induces microbial and inflammatory
+  shifts and mucin changes in the murine gut.
+\newblock \emph{Environmental microbiology}.
+
+\bibitem[{Benner \emph{et~al.}(2015)Benner, De~Smet, Ho, Kerckhof, Vanhaecke,
+  Heylen \& Boon}]{benner2015exploring}
 Benner, J., De~Smet, D., Ho, A., Kerckhof, F.-M., Vanhaecke, L., Heylen, K. \&
-  Boon, N. (2014).
+  Boon, N. (2015).
 \newblock Exploring methane-oxidizing communities for the co-metabolic
   degradation of organic micropollutants.
-\newblock \emph{Applied microbiology and biotechnology}, pp. 1--10.
+\newblock \emph{Applied microbiology and biotechnology}, 99(8):3609--3618.
 
 \bibitem[{Callewaert \emph{et~al.}(2014{\natexlab{a}})Callewaert,
   De~Maeseneire, Kerckhof, Verliefde, Van~de Wiele \&
@@ -60,6 +101,15 @@ Callewaert, C., Kerckhof, F.-M., Granitsiotis, M., Van~Gele, M., Van~de Wiele,
 \newblock In \emph{42nd Annual meeting of the European Society for
   Dermatological Research (ESDR)}, volume 132, pp. S115--S115.
 
+\bibitem[{Callewaert \emph{et~al.}(2012{\natexlab{b}})Callewaert, Kerckhof,
+  Granitsiotis, Van~Gele, Van~de Wiele \& Boon}]{3047190}
+Callewaert, C., Kerckhof, F.-M., Granitsiotis, M., Van~Gele, M., Van~de Wiele,
+  T. \& Boon, N. (2012{\natexlab{b}}).
+\newblock The human axillary environment harbors 2 microbiome ecotypes.
+\newblock In \emph{Journal of investigative dermatology}, volume 132, pp.
+  abstract 656:S115--abstract 656:S115.
+\newblock ISSN 0022-202X.
+
 \bibitem[{Callewaert \emph{et~al.}(2013)Callewaert, Kerckhof, Granitsiotis,
   Van~Gele, Van~de Wiele \& Boon}]{callewaert2013characterization}
 Callewaert, C., Kerckhof, F.-M., Granitsiotis, M.~S., Van~Gele, M., Van~de
@@ -68,13 +118,21 @@ Callewaert, C., Kerckhof, F.-M., Granitsiotis, M.~S., Van~Gele, M., Van~de
   the human axillary region.
 \newblock \emph{PloS one}, 8(8):e70538.
 
-\bibitem[{Callewaert \emph{et~al.}(2012{\natexlab{b}})Callewaert, Kerckhof,
+\bibitem[{Callewaert \emph{et~al.}(2012{\natexlab{c}})Callewaert, Kerckhof,
   Van~de Wiele \& Boon}]{callewaert2012bacterial}
 Callewaert, C., Kerckhof, F.-M., Van~de Wiele, T. \& Boon, N.
-  (2012{\natexlab{b}}).
+  (2012{\natexlab{c}}).
 \newblock The bacterial fingerprint of the armpit and its variation in time.
 \newblock In \emph{17th PhD Symposium on Applied Biological Sciences},
   volume~77.
+
+\bibitem[{Callewaert \emph{et~al.}(2012{\natexlab{d}})Callewaert, Kerckhof,
+  Van~Gele, Van~de Wiele \& Boon}]{callewaert2012humanBSCDB}
+Callewaert, C., Kerckhof, F.-M., Van~Gele, M., Van~de Wiele, T. \& Boon, N.
+  (2012{\natexlab{d}}).
+\newblock The human axillary environment harbors two microbiome ecotypes.
+\newblock In \emph{Belgian Society for Cell and Developmental Biology (BSCDB)
+  Fall meeting 2012: Epidermal cell biology}.
 
 \bibitem[{Callewaert \emph{et~al.}(2014{\natexlab{b}})Callewaert, Kerckhof,
   Van~Keer, Plaquet, Meunier, Bostoen, Verhofstadt, Van~de Wiele \&
@@ -171,15 +229,26 @@ Stock, M., Hoefman, S., Kerckhof, F.-M., Boon, N., De~Vos, P., De~Baets, B.,
   heterotrophs.
 \newblock \emph{Research in microbiology}, 164(10):1045--1054.
 
-\bibitem[{Van~den Abbeele \emph{et~al.}(2012)Van~den Abbeele, Belzer, Goossens,
-  Kleerebezem, De~Vos, Thas, De~Weirdt, Kerckhof \& Van~de
+\bibitem[{Van~den Abbeele \emph{et~al.}(2012{\natexlab{a}})Van~den Abbeele,
+  Belzer, Goossens, Kleerebezem, De~Vos, Thas, De~Weirdt, Kerckhof \& Van~de
   Wiele}]{van2012specific}
 Van~den Abbeele, P., Belzer, C., Goossens, M., Kleerebezem, M., De~Vos, W.,
-  Thas, O., De~Weirdt, R., Kerckhof, F.-M. \& Van~de Wiele, T. (2012).
+  Thas, O., De~Weirdt, R., Kerckhof, F.-M. \& Van~de Wiele, T.
+  (2012{\natexlab{a}}).
 \newblock Specific butyrate-producing clostridium cluster xiva species colonize
   the mucosal environment of a novel in vitro gut model.
 \newblock In \emph{8th Joint symposium INRA-RRI on Gut Microbiology: Gut
   microbiota: friend or foe?}
+
+\bibitem[{Van~den Abbeele \emph{et~al.}(2012{\natexlab{b}})Van~den Abbeele,
+  Belzer, Goossens, Kleerebezem, De~Vos, Thas, De~Weirdt, Kerckhof \& Van~de
+  Wiele}]{3116544}
+Van~den Abbeele, P., Belzer, C., Goossens, M., Kleerebezem, M., De~Vos, W.,
+  Thas, O., De~Weirdt, R., Kerckhof, F.-M. \& Van~de Wiele, T.
+  (2012{\natexlab{b}}).
+\newblock Specific clostridium cluster xiva species drive the mucosal butyrate
+  production.
+\newblock In \emph{Gut Day Symposium, 14th, Abstracts}.
 
 \bibitem[{Van~den Abbeele \emph{et~al.}(2013)Van~den Abbeele, Belzer, Goossens,
   Kleerebezem, De~Vos, Thas, De~Weirdt, Kerckhof \& Van~de
@@ -189,6 +258,7 @@ Van~den Abbeele, P., Belzer, C., Goossens, M., Kleerebezem, M., De~Vos, W.~M.,
 \newblock Butyrate-producing clostridium cluster xiva species specifically
   colonize mucins in an in vitro gut model.
 \newblock \emph{The ISME journal}, 7(5):949--961.
+\newblock \urlprefix\url{http://dx.doi.org/10.1038/ismej.2012.158}.
 
 \bibitem[{van~der Ha \emph{et~al.}(2012)van~der Ha, Nachtergaele, Kerckhof,
   Rameiyanti, Bossier, Verstraete \& Boon}]{van2012conversion}
@@ -198,10 +268,27 @@ van~der Ha, D., Nachtergaele, L., Kerckhof, F.-M., Rameiyanti, D., Bossier, P.,
   bacteria.
 \newblock \emph{Environmental science \& technology}, 46(24):13425--13431.
 
-\bibitem[{Van~Meervenne \emph{et~al.}(2012)Van~Meervenne, Van~Coillie,
-  Kerckhof, Devlieghere, Herman, De~Gelder, Top \& Boon}]{van2012strain}
+\bibitem[{Van~Meervenne \emph{et~al.}(2012{\natexlab{a}})Van~Meervenne,
+  Van~Coillie, Kerckhof, Devlieghere, Herman, De~Gelder, Top \& Boon}]{3195275}
 Van~Meervenne, E., Van~Coillie, E., Kerckhof, F.-M., Devlieghere, F., Herman,
-  L., De~Gelder, L.~S., Top, E.~M. \& Boon, N. (2012).
+  L., De~Gelder, L., Top, E. \& Boon, N. (2012{\natexlab{a}}).
+\newblock An environmental multiresistance plasmid can be transferred to
+  foodborne pathogens.
+\newblock In \emph{Microbial Ecology, 14th International symposium, Abstracts}.
+
+\bibitem[{Van~Meervenne \emph{et~al.}(2012{\natexlab{b}})Van~Meervenne,
+  Van~Coillie, Kerckhof, Devlieghere, Herman, De~Gelder, Top \& Boon}]{3195193}
+Van~Meervenne, E., Van~Coillie, E., Kerckhof, F.-M., Devlieghere, F., Herman,
+  L., De~Gelder, L., Top, E. \& Boon, N. (2012{\natexlab{b}}).
+\newblock An environmental multiresistance plasmid can be transferred to
+  foodborne pathogens.
+\newblock In \emph{FoodMicro 2012, Abstracts}.
+
+\bibitem[{Van~Meervenne \emph{et~al.}(2012{\natexlab{c}})Van~Meervenne,
+  Van~Coillie, Kerckhof, Devlieghere, Herman, De~Gelder, Top \&
+  Boon}]{van2012strain}
+Van~Meervenne, E., Van~Coillie, E., Kerckhof, F.-M., Devlieghere, F., Herman,
+  L., De~Gelder, L.~S., Top, E.~M. \& Boon, N. (2012{\natexlab{c}}).
 \newblock Strain-specific transfer of antibiotic resistance from an
   environmental plasmid to foodborne pathogens.
 \newblock \emph{BioMed Research International}, 2012.

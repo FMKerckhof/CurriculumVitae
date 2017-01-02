@@ -1,0 +1,392 @@
+
+TY  - THES
+ID  - LUP7243634
+TI  - The methanotrophic interactome : microbial partnerships for sustainable methane cycling
+AU  - Kerckhof,Frederiek-Maarten
+PY  - 2016///
+AB  - Methane (CH4) is an important greenhouse gas, and the majority (ca. 60%) of its emission originates from anthropogenic sources. Methane oxidizing bacteria (MOB) are characterized by their unique ability to use CH4 as a sole carbon and energy source. Recently, accumulating evidence demonstrated that methane oxidation is stimulated when MOB are interacting with non-methanotrophic microbes. These interactions can be very specific, although it is not yet entirely elucidated what the determining factors to a successful partnership are. Hence, it seems that a methanotrophic interactome is required for effective biological aerobic methane oxidation, rather than individual obligate methanotrophic bacteria.  In this dissertation, we focused on bacterial interactions between MOB and non-MOB and try to assess what are the determinants for non-MOB partner selection in the methanotrophic interactome. We focus specifically on representatives of alpha- and gammaproteobacterial MOB, which are known to exhibit differential functional traits which can in turn be conceptualized as distinct life strategies. The impact of these differences in MOB life strategies on interactions with non-MOB has not been studied. An increased insight in the co-existence and the extent of co-dependence of MOB and non-MOB partners is required to fully understand the essential ecosystem service of biological methane oxidation.  In PART 1 (TOP-DOWN APPROACH), we dissected a methanotrophic enrichment culture (optimal methanotrophic interactome) by means of time-resolved stable isotope probing combined with 454-pyrosequencing of the 16S rRNA genes to assess which interactome partners are most intricately involved in the assimilation of 13CH4-derived carbon. In PART 2 (BOTTOM-UP APPROACH), we artificially assembled an optimal methanotrophic interactome by piecing together multiple non-MOB strains with MOB (co-cultivation). Firstly, we supervised the selection of MOB for non-MOB partners by establishing compatibility and matching selected MOB with non-MOB partners. Microbial adaptation and abundance of all partners was investigated using q-PCR. Secondly, we allowed an unsupervised selection for non-MOB partners by the MOB and these interactions were monitored by DGGE. In PART 3 (CRYOPRESERVETION), we develop a cryopreservation protocol based on DMSO (and DMSO+TT) as a cryopretactant, which can used to adequately preserve optimal interactomes (preservation of key functional characteristics as well as composition) to allow possible biotechnological applications.  In PART 1, we found that 13CH4-derived carbon is differentially distributed among interactome partners through time. We suggested that the most intricately associated non-MOB partners would be the first to assimilate 13CH4-C and could hence be considered “primary consumers” of whereas organisms labeled later in the time-course SIP experiment are more loosely associated with the MOB and may be “secondary consumers” of organic carbon derived from both the MOB and the primary consumers.   In PART 2a, we could not observe adaptation of a moderately compatible partner to MOB (or vice versa) during repeated co-cultivation with a gammaproteobacterial MOB. Conversely, clear (though limited) adaptation was observed with an alphaproteobacterial MOB. Regardless of its initial compatibility with the MOB, a third partner nearly always completely obliterated the non-MOB partner in the existing MOB:non-MOB interactome. In PART 2b, we showed a clear partner selection where some of the persisting partners were “promiscuous” and could persist regardless of MOB type , whereas others were more specifically associated with either MOB type. Additionally, we observed that alpha- and gammaproteobacterial MOB differentially route CH4-derived carbon to the interactome. Finally, while repeated co-cultivation did not significantly impact the magnitude of overall methane oxidation rates (MOR), it did appear to stabilize the biological variability in MOR as compared to acenically grown MOB.   In PART 3, the optimized cryopreservation protocol for storage of mixed microbial cultures adequately preserved both community structure and functionality of a methanotrophic interactome (among others) for 3 months at -80°C.  These findings may be of significance for methanotrophic interactome Microbial Resource Management, if biotechnological application of non-MOB partners is the ultimate goal. Overall, unsupervised synthetic interactome assembly approaches should be preferred, as they specifically restrict only non-MOB partners that can persist with the MOB from other non-MOB partners. If specific biotechnological applications can be found for such an optimal combination of interactome partners, it is of great interest to preserve a reproducible sample of it for extended periods of time. Exploitation and engineering of these methanotrophic interactomes could lead to improved and sustainable mitigation and recovery of CH4 in the form of metabolic energy or CH4-derived carbon.
+KW  - Microbial Ecology
+KW  - Cryopreservation
+KW  - Methane
+KW  - Methanotrophs
+KW  - Microbiology
+PB  - Ghent University. Faculty of Bioscience Engineering
+SN  - 9789059898929
+U3  - ugent:id 7243634
+U4  - ugent:classification D1
+ER  - 
+
+TY  - CONF
+ID  - LUP7162371
+TI  - Happily ever after? : how repeated subcultivation influences a methanotrophic marriage
+T2  - NEDERLANDS TIJDSCHRIFT VOOR MEDISCHE MICROBIOLOGIE
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Ho,Adrian H
+AU  - De Rudder,Charlotte
+AU  - Heyer,Robert H
+AU  - Benndorf,Dirk B
+AU  - Heylen,Kim
+AU  - Boon,Nico
+A2  - Heikens,E
+A2  - Kaan,JA
+PY  - 2016///
+AB  - Methane (CH4) is one of the most important greenhouse gasses, with a global warming potential of 34 times carbon dioxide over a time horizon of 100 years [1]. Methane oxidizing bacteria (MOB), characterized by their unique ability to use CH4 as both a sole carbon and energy source could be employed for both the mitigation and recovery of CH4. Recently it has been shown that methane oxidation is stimulated by (non-methanotrophic) partners in a methanotrophic interactome [2, 3]. These interacting partners can be specific depending upon the strains involved [4]. The MOB offer the partners methane-derived carbon, but it is unclear which carbon compounds are being exchanged. The partners can alleviate stress induced by self-inhibitory compounds from methane oxidation metabolism [5] or offer the MOB metabolites such as vitamins [6]. However, it is not yet elucidated what the mode of MOB and partner interaction is.   To gain a better understanding of the methanotrophic partnerships we used a synthetic ecology approach to constitute “marriages” (multiple cycles of co-cultivation between MOB and their partners).  We investigated how partnerships with both an alpha- (type II) and a gammaproteobacterial (type I) aerobic MOB evolved over time by means of either 16S rRNA gene-DGGE for a complex partnership with 8 partners or specific qPCR (pmoA/16S rRNA gene based) for each partner combined with Illumina MiSeq 16S rRNA gene amplicon sequencing in the case of a simple partnership with 2 partners. These partners consisted out of one fixed partner and one of 6 variable partners which were selected to be either highly, moderately or lowly compatible with the MOB.   We showed that when the MOB are combined in a complex interaction marriage, a selection towards specific partners occurs, highlighting specificity of MOB and partner interactions. While no clear improvement of the methane oxidation rates (MOR) could be observed, the lag time until methane oxidation started was reduced upon addition of partners.   On the other hand, in the simple partnership the “marriage” was challenged in each cycle with each of the variable partners separately. We observed, depending upon the type of the MOB, a differential impact of the variable partner on the MOR as the number of co-cultivation cycles increased. We observed that the initial partnership with the fixed partner was very easily outcompeted by a variable partner, regardless of the initial compatibility. This shows that adaptation through repeated co-cultivation did not offer an advantage to the fixed partner to make the marriage last, although with another moderately compatible partner sometimes a co-existence was possible after repeated cycles of co-cultivation with the MOB.   Given the importance of biological interactions for methane oxidation in the envrionment as well as in biotechnological, our insights could be employed for microbial resource management (MRM) to steer the composition and performance of the methanotrophic microbiome in situ.  REFERENCES  1. Myhre, G., et al., 2013: Anthropogenic and natural radiative forcing, Cambridge University Press. p. 659-740.  2. Ho, A., et al. ISME J, 2014. 8(9): p. 1945-1948.  3. Oshkin, I.Y., et al. ISME J, 2015. 9(5): p. 1119-1129.  4. Stock, M., et al. RES MICROBIOL, 2013. 164(10): p. 1045-1054.  5. Hanson, R.S. and T.E. Hanson. Microbiol Rev, 1996. 60(2): p. 439-+.  6. Iguchi, H., H. Yurimoto, and Y. Sakai. Appl Environ Microb, 2011. 77(24): p. 8509-8515.
+KW  - methane
+KW  - microbial ecology
+KW  - methane oxidizing bacteria
+SP  - S17
+EP  - S17
+VL  - 24
+IS  - suppl.
+SN  - 0929-0176
+U3  - ugent:id 7162371
+U4  - ugent:classification C3
+ER  - 
+
+TY  - JOUR
+ID  - LUP7039769
+TI  - Bacillus cereus NVH 0500/00 can adhere to mucin but cannot produce enterotoxins during gastrointestinal simulation
+AU  - Tsilia,Varvara
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Rajkovic,Andreja
+AU  - Heyndrickx,Marc
+AU  - Van de Wiele,Tom
+PY  - 2016///
+AB  - Adhesion to the intestinal epithelium could constitute an essential mechanism of Bacillus cereus pathogenesis. However, the enterocytes are protected by mucus, a secretion composed mainly of mucin glycoproteins. These may serve as nutrients and sites of adhesion for intestinal bacteria. In this study, the food poisoning bacterium B. cereus NVH 0500/00 was exposed in vitro to gastrointestinal hurdles prior to evaluation of its attachment to mucin microcosms and its ability to produce nonhemolytic enterotoxin (Nhe). The persistence of mucin-adherent B. cereus after simulated gut emptying was determined using a mucin adhesion assay. The stability of Nhe toward bile and pancreatin (intestinal components) in the presence of mucin agar was also investigated. B. cereus could grow and simultaneously adhere to mucin during in vitro ileal incubation, despite the adverse effect of prior exposure to a low pH or intestinal components. The final concentration of B. cereus in the simulated lumen at 8 h of incubation was 6.62 +/- 0.87 log CFU ml(-1). At that point, the percentage of adhesion was approximately 6%. No enterotoxin was detected in the ileum, due to either insufficient bacterial concentrations or Nhe degradation. Nevertheless, mucin appears to retain B. cereus and to supply it to the small intestine after simulated gut emptying. Additionally, mucin may play a role in the protection of enterotoxins from degradation by intestinal components.
+KW  - IN-VITRO SIMULATION
+KW  - ACID TOLERANCE RESPONSE
+KW  - VEGETATIVE CELLS
+KW  - BIOFILM FORMATION
+KW  - EPITHELIAL-CELLS
+KW  - SMALL-INTESTINE
+KW  - HEMOLYSIN BL
+KW  - SPORES
+KW  - SURVIVAL
+KW  - STRAINS
+SP  - 289
+EP  - 296
+JF  - APPLIED AND ENVIRONMENTAL MICROBIOLOGY
+VL  - 82
+IS  - 1
+SN  - 0099-2240
+UR  - http://dx.doi.org/10.1128/AEM.02940-15
+U1  - isi:id WOS:000366891200029
+U2  - isi:type Article
+U3  - ugent:id 7039769
+U4  - ugent:classification A1
+ER  - 
+
+TY  - CONF
+ID  - LUP7093120
+TI  - To poison or not? : a proteomic approach to quantify enterotoxins produced from Bacillus cereus
+T2  - Advances and Applications in Metaproteomics, Symposium abstracts
+AU  - Tsilia,Varvara
+AU  - Devos,Simon
+AU  - Rajkovic,Andreja
+AU  - Van de Wiele,Tom
+AU  - Heyndrickx,Marc
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Devreese,Bart
+PY  - 2016///
+PB  - Max Planck Institute
+U3  - ugent:id 7093120
+U4  - ugent:classification C3
+ER  - 
+
+TY  - JOUR
+ID  - LUP5990375
+TI  - Chronic cigarette smoke exposure induces microbial and inflammatory shifts and mucin changes in the murine gut
+AU  - Allais,Liesbeth
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Verscheure,Stephanie
+AU  - Bracke,Ken
+AU  - De Smet,Rebecca
+AU  - Laukens,Debby
+AU  - Van den Abbeele,Pieter
+AU  - De Vos,Martine
+AU  - Boon,Nico
+AU  - Brusselle,Guy
+AU  - Cuvelier,Claude
+AU  - Van de Wiele,Tom
+A2  - Timmis,Kenneth
+PY  - 2015///
+AB  - Inflammatory Bowel Diseases (IBD) are complex multifactorial diseases characterized by an inappropriate host response to an altered commensal microbiome and dysfunctional mucus barrier. Cigarette smoking is the best known environmental risk factor in IBD. Here, we studied the influence of chronic smoke exposure on the gut microbiome and mucus layer composition in conventional mice. We compared smoke-exposed to air-exposed mice (n = 12) after a smoke exposure of 24 weeks. Both Illumina sequencing (n = 6) and denaturing gradient gel electrophoresis (DGGE) (n = 12) showed that bacterial activity and community structure were significantly altered in the colon due to smoke exposure. Interestingly, an increase of Lachnospiraceae sp. activity in the colon was observed. Also, changes in the mRNA expression Muc2 and Muc3 increased in the ileum, whereas Muc4 increased in the distal colon of smoke-exposed mice (n = 6). Furthermore, we observed increased Cxcl2 and decreased Ifn-γ in the ileum, and increased Il-6 and decreased Tgf-β in the proximal colon. Tight junction gene expression remained unchanged. We infer that the modulating role of chronic smoke exposure as a latently present risk factor in the gut may be driven by the altered epithelial mucus profiles and changes in microbiome composition and immune factors.
+KW  - inflammatory bowel disease
+KW  - mucus layer
+KW  - gut microbiome
+KW  - cigarette smoking
+KW  - dysbiosis
+JF  - ENVIRONMENTAL MICROBIOLOGY
+SN  - 1462-2912
+UR  - http://dx.doi.org/10.1111/1462-2920.12934
+U3  - ugent:id 5990375
+U4  - ugent:classification A1
+ER  - 
+
+TY  - JOUR
+ID  - LUP5943526
+TI  - Exploring methane-oxidizing communities for the co-metabolic degradation of organic micropollutants
+AU  - Benner,Jessica
+AU  - De Smet,Delfien
+AU  - Ho,Adrian
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Vanhaecke,Lynn
+AU  - Heylen,Kim
+AU  - Boon,Nico
+PY  - 2015///
+AB  - Methane-oxidizing cultures from five different inocula were enriched to be used for co-metabolic degradation of micropollutants. In a first screening, 18 different compounds were tested for degradation with the cultures as well as with four pure methane-oxidizing bacterial (MOB) strains. The tested compounds included pharmaceuticals, chemical additives, pesticides, and their degradation products. All enriched cultures were successful in the degradation of at least four different pollutants, but the compounds degraded most often were sulfamethoxazole (SMX) and benzotriazole (BTZ). Addition of acetylene, a specific methane monooxygenase (MMO) inhibitor, revealed that SMX and BTZ were mainly degraded co-metabolically by the present MOB. The pure MOB cultures exhibited less degradation potential, while SMX and BTZ were also degraded by three of the four tested pure strains. For MOB, copper (Cu2+) concentration is often an important factor, as several species have the ability to express a soluble MMO (sMMO) if the Cu2+ concentration is low. In literature, this enzyme is often described to have a broader compound range for co-metabolic degradation of pollutants, in particular when it comes to aromatic structures. However, this study indicated that co-metabolic degradation of the aromatic compounds SMX and BTZ was possible at high Cu2+ concentration, most probably catalyzed by pMMO.
+KW  - sMMO
+KW  - Benzotrialzole
+KW  - METHANOTROPHS
+KW  - MONOOXYGENASE
+KW  - BACTERIA
+KW  - COPPER
+KW  - OXIDATION
+KW  - KINETICS
+KW  - SURFACE
+KW  - STRAIN
+KW  - Sulfamethoxazole
+KW  - DRINKING-WATER
+KW  - pMMO
+KW  - Copper
+KW  - Methanotrophs
+SP  - 3609
+EP  - 3618
+JF  - APPLIED MICROBIOLOGY AND BIOTECHNOLOGY
+VL  - 99
+IS  - 8
+SN  - 0175-7598
+UR  - http://dx.doi.org/10.1007/s00253-014-6226-1
+U1  - isi:id WOS:000351743600024
+U2  - isi:type Article
+U3  - ugent:id 5943526
+U4  - ugent:classification A1
+ER  - 
+
+TY  - JOUR
+ID  - LUP7039704
+TI  - Bacterial exchange in household washing machines
+AU  - Callewaert,Chris
+AU  - Van Nevel,Sam
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Granitsiotis,Michael S
+AU  - Boon,Nico
+PY  - 2015///
+AB  - Household washing machines (WMs) launder soiled clothes and textiles, but do not sterilize them. We investigated the microbial exchange occurring in five household WMs. Samples from a new cotton T-shirt were laundered together with a normal laundry load. Analyses were performed on the influent water and the ingoing cotton samples, as well as the greywater and the washed cotton samples. The number of living bacteria was generally not lower in the WM effluent water as compared to the influent water. The laundering process caused a microbial exchange of influent water bacteria, skin-, and clothes related bacteria and biofilm-related bacteria in the WM. A variety of biofilm-producing bacteria were enriched in the effluent after laundering, although their presence in the cotton sample was low. Nearly all bacterial genera detected on the initial cotton sample were still present in the washed cotton samples. A selection for typical skin- and clothes related microbial species occurred in the cotton samples after laundering. Accordingly, malodour-causing microbial species might be further distributed to other clothes. The bacteria on the ingoing textiles contributed for a large part to the microbiome found in the textiles after laundering.
+KW  - fabrics
+KW  - skin
+KW  - microbiome
+KW  - domestic
+KW  - washing machine
+KW  - GRADIENT GEL-ELECTROPHORESIS
+KW  - 16S RIBOSOMAL-RNA
+KW  - WATER DISTRIBUTION-SYSTEM
+KW  - HUMAN SKIN
+KW  - PYROSEQUENCING ANALYSIS
+KW  - BIOFILM COMMUNITIES
+KW  - MICROBIAL ECOLOGY
+KW  - MICROORGANISMS
+KW  - STAPHYLOCOCCUS
+KW  - DISINFECTION
+JF  - FRONTIERS IN MICROBIOLOGY
+VL  - 6
+SN  - 1664-302X
+UR  - http://dx.doi.org/10.3389/fmicb.2015.01381
+U1  - isi:id WOS:000366703100001
+U2  - isi:type Article
+U3  - ugent:id 7039704
+U4  - ugent:classification A1
+ER  - 
+
+TY  - JOUR
+ID  - LUP7017244
+TI  - Effects of irradiation on epithelial wound healing and microbial diversity in an in-vitro oral mucosa model
+AU  - De Ryck,Tine
+AU  - Boterberg,Tom
+AU  - Kerckhof,Frederiek-Maarten
+AU  - De Schrijver,Joachim
+AU  - Bracke,Marc
+AU  - Van De Wiele,Tom
+AU  - Vanhoecke,Barbara
+PY  - 2015///
+JF  - JOURNAL OF NUCLEAR MEDICINE AND RADIATION THERAPY
+VL  - 6
+IS  - 2
+SN  - 2155-9619
+UR  - http://dx.doi.org/10.4172/2155-9619.1000218
+U3  - ugent:id 7017244
+U4  - ugent:classification A2
+ER  - 
+
+TY  - CONF
+ID  - LUP7241677
+TI  - Microbial interdependencies in an enriched aerobic mixed methanotrophic community
+T2  - European Microbiologists, 6th Congress, Abstracts
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Ho,Adrian
+AU  - Granitsiotis,Michael SG
+AU  - Heylen,Kim
+AU  - Boon,Nico
+PY  - 2015///
+KW  - Methanotrophs
+KW  - Methane
+KW  - Microbial Community structure
+KW  - DNA stable isotope probing
+SP  - 2717
+PB  - Kenes International Organizers of Congresses
+UR  - http://fems-microbiology.kenes.com/Documents/FEMS%20abstracts.pdf
+U3  - ugent:id 7241677
+U4  - ugent:classification C3
+ER  - 
+
+TY  - CONF
+ID  - LUP7241763
+TI  - Enhancing microbial cryopreservation : from fastidious microbes to mixed communities
+T2  - CRYOBIOLOGY
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Vekeman,Bram
+AU  - Geirnaert,Annelies
+AU  - Courtens,Emilie
+AU  - Vilchez Vargas,Ramiro
+AU  - Ho,Adrian
+AU  - Heylen,Kim
+AU  - Boon,Nico
+A2  - Rawson,DM
+PY  - 2015///
+KW  - Microbiome
+KW  - Methanotroph
+KW  - Cryopreservation
+SP  - 549
+EP  - 550
+VL  - 71
+IS  - 3
+SN  - 0011-2240
+UR  - http://dx.doi.org/10.1016/j.cryobiol.2015.10.054
+U3  - ugent:id 7241763
+U4  - ugent:classification C3
+ER  - 
+
+TY  - CONF
+ID  - LUP5856566
+TI  - Long-chain hydrocarbon degraders from deep-sea
+T2  - VLIZ Special Publication
+AU  - Scoma,Alberto
+AU  - Rifai,Ridwan Muhamad
+AU  - Pini,Emma
+AU  - Hernandez Sanabria,Emma
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Boon,Nico
+PY  - 2015///
+AB  - Deep-sea life is featured by extreme environmental conditions, such as low temperature, limitation in nutrients and carbon sources, and high hydrostatic pressure (Jannasch, 1979). As a consequence, marine microbial communities have incredibly broadened their metabolic versatility to make efficient use of any resource available (Sibuet and Karine, 1998). In the present work, we collected deep-sea microbial communities (1km, equivalent to 100bars) and grew them using long-chain aliphatic hydrocarbons. Because of their solid nature at ambient temperature and pressure, such hydrocarbons have a higher chance to sink to the seafloor during spills with respect to gaseous or liquid, short-chained ones. Hence, our hypothesis was that the use of long-chain alkanes as unique carbon sources at high hydrostatic pressure would have resulted into microbial communities enriched in piezophiles, i.e., bacteria growing better at high pressure rather than at atmospheric ones. Nevertheless, high hydrostatic pressure does not improve much the solubility of these compounds in water (Brunner, 1990), the bioavailability of which remains always extremely low. This condition is ideal to test the flexibility of piezophiles and address some of the basic questions regarding their metabolism. In particular, in these bacteria any biomolecule (enzymes, lipids, nucleic acids, etc.) must be adapted to properly function under high pressure. Hence, the range of reaction conditions suitable for biocatalysis in these microbes is supposed to be larger than for bacteria growing in surface waters.  Deep-sea samples (1km, 100bars) were incubated at three different pressure conditions (1, 100 and 200bars) using either icosane (C20) or triacontane (C30). In particular, these three pressure conditions were selected in order to separately enrich piezotolerant bacteria (growing well at both 1 and 100bars) from piezophiles (growing better at 100 and 200bars). High-pressure reactors were inoculated with the same initial environmental microbial community and run for 9 consecutive incubation periods, each of which lasted 10d. At the end of any incubation, aliquots of growing bacterial cells were transferred to a new reactor, for a total of 90d of enrichment. Experiments were followed according to pH, O2 consumption, optical density, phosphates and sulphates consumption, hydrophobicity, cell number by flow cytometry and hydrocarbon solubility in the water phase. Furthermore, characterization of the microbial community shift was conducted through both DGGE and high throughput sequencing using Illumina platform.  In each culture condition, marine bacteria were able to grow by taking up C20 and C30. Respiration rates were always high, and production of surfactants occurred particularly at 1bar. This is probably due to the fact that a higher number of cells was noted at 1bar than at higher pressures, when filtering with 25μm. However, numerous bacterial populations smaller than 1.5μm were noted in all conditions. Hydrophobicity, i.e., the capability to move towards oil droplets, was generally high in all conditions. Phosphates and sulphates consumption was statistically different according to the pressure applied and/or O2 availability. Future work will be devoted to the understanding of specific enzymatic activity (through meta-proteomics) and to the characterization of the biomass features in terms of PLFAs, wax, esters and lipids.
+SP  - 115
+EP  - 115
+VL  - 71
+PB  - Vlaams Instituut voor de Zee (VLIZ)
+SN  - 1377-0950
+U3  - ugent:id 5856566
+U4  - ugent:classification C3
+ER  - 
+
+TY  - JOUR
+ID  - LUP7021082
+TI  - Bacillus cereus adhesion to simulated intestinal mucus is determined by its growth on mucin, rather than intestinal environmental parameters
+AU  - Tsilia,Varvara
+AU  - Uyttendaele,Mieke
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Rajkovic,Andreja
+AU  - Heyndrickx,Marc
+AU  - Van de Wiele,Tom
+PY  - 2015///
+AB  - Adhesion of pathogenic bacteria to intestinal mucus, the protective layer of the gastrointestinal epithelium, is often considered a virulence factor. The ability of food-poisoning Bacillus cereus strains to attach to mucus and the factors affecting this interaction have not yet been investigated. Therefore, the role of adhesion in pathogenesis of B. cereus still remains unknown. In the present study, an in vitro assay based on mucin agar was used to simulate adhesion of B. cereus to mucus. Bacterial-associated factors (e.g., strain specificity and microbial competition) known to influence adhesion to different surfaces and a variety of environmental conditions (e.g., pH and oxygen) encountered in the gastrointestinal tract were investigated. The effect of these parameters on B. cereus NVH 0500/00 mucin adhesion was generally limited even in the presence of microbial competition. This suggests that B. cereus NVH 0500/00 is a versatile pathogen. Inoculation of 4 to 5 log colony-forming units (CFU) per milliliter. B. cereus NVH 0500/00 resulted in 5-6 log CFU/mL mucin-associated bacteria after a short incubation period. This indicates that this pathogenic strain could grow in the presence of mucin agar. This growth may potentially mask the effect of the studied conditions. Yet, extensive attachment of B. cereus to mucin is not necessarily a prerequisite for virulence, because other pathogenic strains do not adhere with the same efficiency to mucin. Nevertheless, adhesion may contribute to the disease by providing close contact to nutrient sources, such as mucin, which would not only result in bacterial proliferation, but also in disruption of the protective host mucus surface.
+KW  - MICROBIAL ECOSYSTEM
+KW  - IN-VITRO
+KW  - EPITHELIAL-CELLS
+KW  - GASTROINTESTINAL CONDITIONS
+KW  - BACTERIAL ADHESION
+KW  - SPORES
+KW  - STRAINS
+KW  - TOXIN
+KW  - HYDROPHOBICITY
+KW  - THURINGIENSIS
+SP  - 904
+EP  - 913
+JF  - FOODBORNE PATHOGENS AND DISEASE
+VL  - 12
+IS  - 11
+SN  - 1535-3141
+UR  - http://dx.doi.org/10.1089/fpd.2014.1926
+U1  - isi:id WOS:000364314200007
+U2  - isi:type Article
+U3  - ugent:id 7021082
+U4  - ugent:classification A1
+ER  - 
+
+TY  - CONF
+ID  - LUP5799282
+TI  - The effect of chronic cigarette smoke exposure on gut microbial diversity in healthy mice
+T2  - Rowett-INRA, 9th Joint symposium, Abstracts
+AU  - Allais,Liesbeth
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Verscheure,Stephanie
+AU  - Bracke,Ken
+AU  - De Smet,Rebecca
+AU  - Laukens,Debby
+AU  - Van den Abbeele,Pieter
+AU  - De Vos,Martine
+AU  - Boon,Nico
+AU  - Brusselle,Guy
+AU  - Van de Wiele,Tom
+AU  - Cuvelier,Claude
+PY  - 2014///
+KW  - mice
+KW  - microbiome
+KW  - gut
+U3  - ugent:id 5799282
+U4  - ugent:classification C3
+ER  - 
+
+TY  - CONF
+ID  - LUP5799353
+TI  - The effect of chronic cigarette smoke exposure on the gut microbiome in healthy mice
+T2  - BSM Annual meeting, Abstracts
+AU  - Allais,Liesbeth
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Verscheure,Stephanie
+AU  - Bracke,Ken
+AU  - De Smet,Rebecca
+AU  - Laukens,Debby
+AU  - Van den Abbeele,Pieter
+AU  - De Vos,Martine
+AU  - Boon,Nico
+AU  - Brusselle,Guy
+AU  - Van de Wiele,Tom
+AU  - Cuvelier,Claude
+PY  - 2014///
+PB  - Belgian Society for Food Microbiology (BSFM)
+U3  - ugent:id 5799353
+U4  - ugent:classification C3
+ER  - 
+
+TY  - CONF
+ID  - LUP5745505
+TI  - Characterisation of the human malodorous axillary microbiome and a novel treatment to obtain a better body odour
+T2  - JOURNAL OF INVESTIGATIVE DERMATOLOGY
+AU  - Callewaert,Chris
+AU  - Kerckhof,Frederiek-Maarten
+AU  - Van Keer,Thomas
+AU  - Plaquet,Tess
+AU  - Meunier,Murielle
+AU  - BOSTOEN,JESSICA
+AU  - Verhofstadt,Lesley
+AU  - Van de Wiele,Tom
+AU  - Boon,Nico
+PY  - 2014///
+SP  - S78
+EP  - S78
+VL  - 134
+IS  - suppl. 2
+SN  - 0022-202X
+U1  - isi:id WOS:000340352100437
+U3  - ugent:id 5745505
+U4  - ugent:classification C3
+ER  - 

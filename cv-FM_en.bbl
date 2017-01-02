@@ -1,4 +1,4 @@
-\begin{thebibliography}{33}
+\begin{thebibliography}{38}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -145,6 +145,21 @@ Callewaert, C., Kerckhof, F.-M., Van~Keer, T., Plaquet, T., Meunier, M.,
 \newblock In \emph{44th Annual meeting of the European Society for
   Dermatological Research (ESDR)}, volume 134, pp. S78--S78.
 
+\bibitem[{Callewaert \emph{et~al.}(2015)Callewaert, Van~Nevel, Kerckhof,
+  Granitsiotis \& Boon}]{callewaert2015bacterial}
+Callewaert, C., Van~Nevel, S., Kerckhof, F.-M., Granitsiotis, M.~S. \& Boon, N.
+  (2015).
+\newblock Bacterial exchange in household washing machines.
+\newblock \emph{Frontiers in microbiology}, 6.
+
+\bibitem[{De~Ryck \emph{et~al.}(2015)De~Ryck, Boterberg, Kerckhof, Schrijver,
+  Bracke \emph{et~al.}}]{ryck2015effects}
+De~Ryck, T., Boterberg, T., Kerckhof, F., Schrijver, J., Bracke, M.
+  \emph{et~al.} (2015).
+\newblock Effects of irradiation on epithelial wound healing and microbial
+  diversity in an in-vitro oral mucosa model.
+\newblock \emph{J Nucl Med Radiat Ther}, 6(218):2.
+
 \bibitem[{De~Ryck \emph{et~al.}(2014)De~Ryck, Grootaert, Jaspaert, Kerckhof,
   Van~Gele, De~Schrijver, Van~den Abbeele, Swift, Bracke, Van~de Wiele
   \emph{et~al.}}]{de2014development}
@@ -171,12 +186,6 @@ Ho, A., Kerckhof, F.-M., Luke, C., Reim, A., Krause, S., Boon, N. \& Bodelier,
   methane-oxidizing bacteria as life strategies.
 \newblock \emph{Environmental microbiology reports}, 5(3):335--345.
 
-\bibitem[{Kerckhof(2011)}]{kerckhofunconventional}
-Kerckhof, F.-M. (2011).
-\newblock \emph{Unconventional electron donors and acceptors for microbial
-  ecosystems}.
-\newblock Master's thesis, Ghent University.
-
 \bibitem[{Kerckhof \emph{et~al.}(2014)Kerckhof, Courtens, Geirnaert, Hoefman,
   Ho, Vilchez-Vargas, Pieper, Jauregui, Vlaeminck, Van~de Wiele
   \emph{et~al.}}]{kerckhof2014optimized}
@@ -187,6 +196,24 @@ Kerckhof, F.-M., Courtens, E.~N., Geirnaert, A., Hoefman, S., Ho, A.,
   conserved functionality and diversity.
 \newblock \emph{PloS one}, 9(6):e99517.
 
+\bibitem[{Kerckhof \emph{et~al.}(2016)Kerckhof, Ho, De~Rudder, Heyer, Benndorf,
+  Heylen \& Boon}]{kerckhof2016knvm}
+Kerckhof, F.-M., Ho, A., De~Rudder, C., Heyer, R., Benndorf, D., Heylen, K. \&
+  Boon, N. (2016).
+\newblock Happily ever after? how repeated subcultivation influences a
+  methanotrophic marriage.
+\newblock In \emph{Nederlands Tijdschrift voor Medische Microbiologie},
+  volume~24.
+\newblock ISSN 0929-0176.
+
+\bibitem[{Kerckhof \emph{et~al.}(2015)Kerckhof, Vekeman, Geirnaert, Courtens,
+  Vilchez-Vargas, Ho, Heyle \& Boon}]{kerckhof2015enhancing}
+Kerckhof, F.-M., Vekeman, B., Geirnaert, A., Courtens, E.~N., Vilchez-Vargas,
+  R., Ho, A., Heyle, K. \& Boon, N. (2015).
+\newblock Enhancing microbial cryopreservation: From fastidious microbes to
+  mixed communities.
+\newblock \emph{Cryobiology}, 71(3):549--550.
+
 \bibitem[{Marzorati \emph{et~al.}(2013)Marzorati, Maignien, Verhelst, Luta,
   Sinnott, Kerckhof, Boon, Van~de Wiele \& Possemiers}]{marzorati2013barcoded}
 Marzorati, M., Maignien, L., Verhelst, A., Luta, G., Sinnott, R., Kerckhof,
@@ -195,14 +222,6 @@ Marzorati, M., Maignien, L., Verhelst, A., Luta, G., Sinnott, R., Kerckhof,
   simulator of the human gastrointestinal tract showed a colon region-specific
   microbiota modulation for two plant-derived polysaccharide blends.
 \newblock \emph{Antonie Van Leeuwenhoek}, 103(2):409--420.
-
-\bibitem[{Ryck \emph{et~al.}(2015)Ryck, Boterberg, Kerckhof, Schrijver, Bracke
-  \emph{et~al.}}]{ryck2015effects}
-Ryck, T., Boterberg, T., Kerckhof, F., Schrijver, J., Bracke, M. \emph{et~al.}
-  (2015).
-\newblock Effects of irradiation on epithelial wound healing and microbial
-  diversity in an in-vitro oral mucosa model.
-\newblock \emph{J Nucl Med Radiat Ther}, 6(218):2.
 
 \bibitem[{Scoma \emph{et~al.}(2015)Scoma, Rifai, Pini, Hernandez~Sanabria,
   Kerckhof \& Boon}]{scoma2015long}
@@ -228,6 +247,31 @@ Stock, M., Hoefman, S., Kerckhof, F.-M., Boon, N., De~Vos, P., De~Baets, B.,
 \newblock Exploration and prediction of interactions between methanotrophs and
   heterotrophs.
 \newblock \emph{Research in microbiology}, 164(10):1045--1054.
+
+\bibitem[{Tsilia \emph{et~al.}(2016{\natexlab{a}})Tsilia, Devos, Rajkovic,
+  Van~de Wiele, Heyndrickx, Kerckhof \& Devreese}]{tsilia2016poison}
+Tsilia, V., Devos, S., Rajkovic, A., Van~de Wiele, T., Heyndrickx, M.,
+  Kerckhof, F.-M. \& Devreese, B. (2016{\natexlab{a}}).
+\newblock To poison or not?: a proteomic approach to quantify enterotoxins
+  produced from bacillus cereus.
+\newblock In \emph{Symposium on Advances and Applications in Metaproteomics}.
+  Max Planck Institute.
+
+\bibitem[{Tsilia \emph{et~al.}(2016{\natexlab{b}})Tsilia, Kerckhof, Rajkovic,
+  Heyndrickx \& Van~de Wiele}]{tsilia2016bacillus}
+Tsilia, V., Kerckhof, F.-M., Rajkovic, A., Heyndrickx, M. \& Van~de Wiele, T.
+  (2016{\natexlab{b}}).
+\newblock Bacillus cereus nvh 0500/00 can adhere to mucin but cannot produce
+  enterotoxins during gastrointestinal simulation.
+\newblock \emph{Applied and environmental microbiology}, 82(1):289--296.
+
+\bibitem[{Tsilia \emph{et~al.}(2015)Tsilia, Uyttendaele, Kerckhof, Rajkovic,
+  Heyndrickx \& Van~de Wiele}]{tsilia2015bacillus}
+Tsilia, V., Uyttendaele, M., Kerckhof, F.-M., Rajkovic, A., Heyndrickx, M. \&
+  Van~de Wiele, T. (2015).
+\newblock Bacillus cereus adhesion to simulated intestinal mucus is determined
+  by its growth on mucin, rather than intestinal environmental parameters.
+\newblock \emph{Foodborne pathogens and disease}, 12(11):904--913.
 
 \bibitem[{Van~den Abbeele \emph{et~al.}(2012{\natexlab{a}})Van~den Abbeele,
   Belzer, Goossens, Kleerebezem, De~Vos, Thas, De~Weirdt, Kerckhof \& Van~de

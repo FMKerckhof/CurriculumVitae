@@ -1,11 +1,12 @@
 \documentclass[a4paper,11pt,oneside]{article}
 \usepackage{a4wide}                     % Iets meer tekst op een bladzijde
-\usepackage[dutch]{babel}               % Voor nederlandstalige hyphenatie (woordsplitsing)
+\usepackage[english]{babel}               % Voor nederlandstalige hyphenatie (woordsplitsing)
 \usepackage{amsmath}                    % Uitgebreide wiskundige mogelijkheden
 \usepackage{amssymb}                    % Voor speciale symbolen zoals de verzameling Z, R...
 \usepackage{url}                        % Om url's te verwerken
+\usepackage[round]{natbib}
 \usepackage{graphicx}                   % Om figuren te kunnen verwerken
-\usepackage[small,bf,hang]{caption2}    % Om de captions wat te verbeteren
+\usepackage[small,bf,hang]{caption}    % Om de captions wat te verbeteren
 \usepackage{xspace}                     % Magische spaties na een commando
 \usepackage[latin1]{inputenc}           % Om niet ascii karakters rechtstreeks te kunnen typen
 \usepackage{float}                      % Om nieuwe float environments aan te maken. Ook optie H!
@@ -13,12 +14,15 @@
 \usepackage{listings}                   % Voor het weergeven van letterlijke text en codelistings
 \usepackage{marvosym}                   % Om het euro symbool te krijgen
 \usepackage{textcomp}                   % Voor onder andere graden celsius
+\usepackage{hyperref}
 \usepackage{fancyhdr}                   % Voor fancy headers en footers.
 \usepackage{graphics}			% Om figuren te verwerken.
+%\usepackage{biblatex}
+\bibliographystyle{biblioeng2}
 \newcommand{\npar}{\par \vspace{2.3ex plus 0.3ex minus 0.3ex} \noindent}	% Om witruimte te krijgen tussen paragrafen
 \hyphenation{stu-den-ten-ver-te-gen-woor-di-ger op-lei-dings-com-mis-sies com-pu-ter-com-mis-sies fa-cul-teits-raad 
 In-ge-nieurs-We-ten-schap-pen}
-\graphicspath{{figuren/}}               % De plaars waar latex zijn figuren gaat halen.
+\graphicspath{{figuren/}}                  % De plaars waar latex zijn figuren gaat halen.
 
 % Nieuw commando om figuren in te voegen. Gebruik:
 % \mijnfiguur[H]{width=5cm}{bestandsnaam}{Het bijschrift bij deze figuur}
@@ -49,18 +53,60 @@ In-ge-nieurs-We-ten-schap-pen}
   \item Geboortedatum: 14 november 1988
   \item Geboorteplaats: Brugge
 \end{itemize}
-\section{Doelen}
-Graag zou ik een onderzoekstaak willen uitvoeren in de industrële biotechnologische sector en dan meer bepaald in de duurzame en milieugerichte microbiële technologie. Door mijn opleiding als bio-ingenieur in de cel en gen biotechnologie en persoonlijke interesse ben ik vooral geschikt voor een functie in onderzoek en ontwikkeling. Door mijn sociale vaardigheden en organisatietalent kan ik goed in een onderzoeksteam samenwerken en indien mogelijk een coördinerende functie opnemen.\\
-Ook een taak in consultancy voor onderzoeksprojecten spreekt mij aan. Ik heb een brede basiskennis van moleculaire technieken en houd van uitdagende projecten.
+\section{Onderzoeksinteresses}
+Ik heb een passie voor onderzoek en ontwikkeling in data-analyse en visualisatie
+methoden in diverse domeinen binnen de microbiële ecologie. Specifiek ligt mijn 
+focus op de ontwikkeling van computationeel efficiënte en kwantitative methoden,
+die noodzakelijk zijn om microbiële interacties van nabij te volgen. Ik geloof
+dat een doorgedreven inzicht in microbiële interacties essentieel is om modellen
+op te bouwen die ons in staat zullen stellen om microbiële ecosystemen beter op 
+te volgen maar ook bij te sturen. Gezien microbiële gemeenschappen essentieel 
+zijn voor 
+Gezien mijn gedegen wet-lab kennis op het gebied van microbiële ecologie ben ik 
+me bewust van de verschillende bronnen van "ruis", dit zorgt er voor dat ik heel
+goed weet hoe een proefopzet dient te verlopen om aan het eind van de rit een 
+waardevolle en statistich relevante data-interpretatie te doen.
+
 \section{Opleiding}
 \begin{itemize}
-\item 2000-2006: (secundair onderwijs) Latijn - Wiskunde, Onze-Lieve-Vrouwecollege Assebroek
-\item \textbf{2006-heden: Bio - ingenieur in de Cel en Gen Biotechnologie, major computationele biologie}. Diploma verwacht juli 2011.
+\item \textbf{2016-2017: Postdoctoraal onderzoeker in microbial resource management
+ en sytnhetische microbiële ecologie.}\\
+\textbf{Funding}: Federaal Wetenschapsbeleid België, Inter-universitaire attractiepool "microbial resource managment" (BELSPO, IUAP P7/25)
+    \begin{itemize}
+      \item Coordineren van dagdagelijkse activiteiten van het IUAP P7/25 "micro-manager: microbial resource managment in engineered and natural ecosystems" netwerk
+      \item Organisatie van interne workshops (opleidingen) voor het IUAP netwerk en CMET
+      \item Begeleiding van verschillende doctoraatstudenten en 3 masterproefstudenten
+      \item ARB/SILVA opleiding: "van primer naar paper" (MPI Bremen, nov 2016)
+      \item TT skills opleiding (Ugent TTO): valorisatie van onderzoek, intelectuele eigendom, funding, ... (Gent, autumn 2017)
+      \item EBAME3: opleiding in microbiële computationele ecogenomics (UBO Brest, December 2017)
+      \item Medelesgever Moleculair Microbiële Technieken (1ste master bio-ingenieurswetenschappen Cel en Gen-biotechnologie + keuzestudenten, academiejaar 2017-2018)
+    \end{itemize}
+
+\item \textbf{2011-2016: Doctoraatsthesis over duurzame methanotrofie}
+    \begin{itemize}
+      \item Academische publicatie als eerste auteur (zie onderstaande bibliografie, \cite{kerckhof2014optimized})
+      \item Co-auteur in verschillende peer-reviewed publicaties waar mijn consult als bio-informaticus en -statisticus essentieel was  (zie ook onderstaande bibliografie)
+      \item Tutor van verschillende masterthesis en stagestudenten
+      \item Les assistent bij de practica van Moleculair Microbiële Technieken en Microbieel Ecologische Processen.
+      \item Organiseren van interne opleidingen over statistiek, bio-informatica en versiecontrole
+    \end{itemize}
+\item \textbf{2011-2016: Universiteit Gent Doctoral Schools}
+    \begin{itemize}
+      \item Advanced academic English: conference skills
+      \item IVPV specialist course: Advanced statistical methods - nonparametric methods
+      \item IVPV specialist course: Advanced statistical methods - multivariate methods
+      \item FLAMES specialist course: Advanced R - Programming in R and beyond
+      \item Specialist course: UGent High Performance computing (Linux shell scripting, Python, HPC usage)
+      \item Specialist course: Introduction to MG-RAST
+    \end{itemize}
+\item \textbf{2006-2011: Master Bio-ingenieurswetenschappen Cel- en Gen Biotechnologie, major computationele biologie, Universiteit gent}. \emph{Summa cum laude}
 	\begin{itemize}
 		\item Bachelorproef: 'Competitie en Diversiteit, een schijnbare tegenstelling'. Omtrent mathematische modellering van ecologische competitie op macro- en micro-ecologische schaal en mogelijke toepassingen (pre-emptieve kolonisatie, pre- en pro-biotica).
 		\item Project Statistiek voor Genoomanalyse en Bio-Informatica 2: analyse van 454-pyrosequencing metagenomics data
 		\item Masterthesis: 'Onconventionele elektron-donoren en -acceptoren voor microbiële ecosystemen'. Fundamenteel onderzoek naar microbële fysiologie in Bio-elektrochemische systemen (microbiële brandstofcellen).
 	\end{itemize}
+	\item 2000-2006: (secundair onderwijs) Latijn - Wiskunde, Onze-Lieve-Vrouwecollege Assebroek
+
 
 \end{itemize}
 
@@ -132,4 +178,21 @@ Ook een taak in consultancy voor onderzoeksprojecten spreekt mij aan. Ik heb een
 	\item Engels: lezen, scrhijven en spreken (goed)
 	\item Duits: notie
 \end{itemize}
+
+\section*{Online Presence}
+\begin{itemize}
+  \item \href{https://www.linkedin.com/pub/frederiek-maarten-kerckhof/26/b47/668}{LinkedIn}
+  \item \href{https://www.researchgate.net/profile/Frederiek-Maarten_Kerckhof}{ResearchGate}
+  \item \href{http://www.researcherid.com/ProfileView.action?SID=V2bGbhtEe1TlsfIEXBz&returnCode=ROUTER.Success&queryString=KG0UuZjN5WlUD2sX8KoC12Tw17vPT2A6ocQ5tgzRDDI\%253D\&SrcApp=CR\&Init=Yes}{ResearcherID}
+  \item \href{http://orcid.org/0000-0002-4472-6810}{ORCID}
+  \item Contributor to stack Exchange fora (StackOverflow, CrossValidated, Ask Ubuntu, TeX)
+\end{itemize}
+
+\renewcommand{\refname}{Academic publications and conference proceedings} %(voor article)
+\renewcommand{\bibname}{Academic publications and conference proceedings} %(voor book en report)
+\nocite{*}
+
+\bibliography{citations}
+%\addbibresource{citations.bib}
+%\printbibliography
 \end{document}

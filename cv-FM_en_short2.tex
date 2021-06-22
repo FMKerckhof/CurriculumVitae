@@ -1,0 +1,173 @@
+\documentclass[a4paper,11pt,oneside]{article}
+\usepackage{a4wide}                     % Iets meer tekst op een bladzijde
+\usepackage[english]{babel}               % Voor nederlandstalige hyphenatie (woordsplitsing)
+\usepackage{amsmath}                    % Uitgebreide wiskundige mogelijkheden
+\usepackage{amssymb}                    % Voor speciale symbolen zoals de verzameling Z, R...
+\usepackage{url}                        % Om url's te verwerken
+\usepackage[round]{natbib}
+\usepackage{graphicx}                   % Om figuren te kunnen verwerken
+\usepackage[small,bf,hang]{caption}    % Om de captions wat te verbeteren
+\usepackage{xspace}                     % Magische spaties na een commando
+\usepackage[latin1]{inputenc}           % Om niet ascii karakters rechtstreeks te kunnen typen
+\usepackage{float}                      % Om nieuwe float environments aan te maken. Ook optie H!
+\usepackage{flafter}                    % Opdat floats niet zouden voorsteken
+\usepackage{listings}                   % Voor het weergeven van letterlijke text en codelistings
+\usepackage{marvosym}                   % Om het euro symbool te krijgen
+\usepackage{textcomp}                   % Voor onder andere graden celsius
+\usepackage{hyperref}
+\usepackage{fancyhdr}                   % Voor fancy headers en footers.
+\usepackage{graphics}			% Om figuren te verwerken.
+%\usepackage{biblatex}
+\bibliographystyle{biblioeng2}
+\newcommand{\npar}{\par \vspace{2.3ex plus 0.3ex minus 0.3ex} \noindent}	% Om witruimte te krijgen tussen paragrafen
+\hyphenation{stu-den-ten-ver-te-gen-woor-di-ger op-lei-dings-com-mis-sies com-pu-ter-com-mis-sies fa-cul-teits-raad 
+In-ge-nieurs-We-ten-schap-pen}
+\graphicspath{{figuren/}}               % De plaars waar latex zijn figuren gaat halen.
+
+% Nieuw commando om figuren in te voegen. Gebruik:
+% \mijnfiguur[H]{width=5cm}{bestandsnaam}{Het bijschrift bij deze figuur}
+\newcommand{\mijnfiguur}[4][ht]{            % Het eerste argument is standaar `ht'.
+    \begin{figure}[#1]                      % Beginnen van de figure omgeving
+        \begin{center}                      % Beginnen van de center omgeving
+            \includegraphics[#2]{#3}        % Het eigenlijk invoegen van de figuur (2: opties, 3: bestandsnaam)
+            \caption{#4\label{#3}}          % Het bijschrift (argument 4) en het label (argument 3)
+        \end{center}
+    \end{figure}
+    }
+%opening
+\title{Curriculum Vitae}
+\author{Dr. ir. Frederiek - Maarten Kerckhof}
+
+\begin{document}
+
+\maketitle
+
+\section*{General information}
+\subsection*{Personalia}
+\rule{\textwidth}{1pt}
+\begin{itemize}
+  \item Last name: Kerckhof
+  \item First names: Frederiek - Maarten Pieter Jozef
+  \item Current adress: Holdaal 72A, 9000 Gent
+  \item Mobile phone: +32477/98.13.12
+  \item E-mail: frederiekmaarten.kerckhof@ugent.be
+  \item Date and place of birth: November 14, 1988 (Bruges)
+  \item Affiliation: Ghent University, Faculty of bioscience engineering, Center for Microbial ecology and technology (CMET).
+  \item Address: Coupure Links 653, 9000 Gent, Belgium
+  \item Family: Varvara Tsilia (spouse) and Phileas Kerckhof Tsilias (son, \textborn 15/09/16)
+\end{itemize}
+
+\subsection*{Experience}
+\rule{\textwidth}{1pt}
+\begin{itemize}
+\item \textbf{2020-2021: VLAIO IM Spin-off mandate}
+  \begin{itemize}
+      \item VLAIO IM Spin-off mandate HBC.2019.2601: "Innovative management strategies for yeast-driven fermentations"
+      \item Back-end development and support for cloud architecture
+      \item see \href{https://www.kytos.be}{www.kytos.be}
+  \end{itemize}
+
+\item \textbf{2018-2020: 50\% Bio-informatician and 50\% IOF-Postdoc}
+  \begin{itemize}
+    \item IOF-Postdoc
+    \begin{itemize}
+      \item IOF StepStone project "KYTOS": on-time microbial management for sustainable bioprocesses
+      \item As part of the team with a focus on applications in Fermentation industry
+      \item see \href{https://www.kytos.be}{www.kytos.be}
+    \end{itemize}
+    \item Bio-informatician
+    \begin{itemize}
+      \item Organization of internal workshops for CMET
+      \item Teaching molecular microbial techniques
+      \item Bio-informatics support for CMET staff
+      \item Data stewardship at CMET
+    \end{itemize}
+  \end{itemize}
+\item \textbf{2016-2018: Postdoctoral research fellow on microbial resource managment and synthetic microbial ecology} \\
+\textbf{Funding}: Belgian Science Policy IAP (BELSPO, P7/25), GOA Crohn (BOF17/GOA/032) 
+    \begin{itemize}
+      \item Coordinating day-to-day management of inter-universitary attraction poles programme P7/25 "micro-manager: microbial resource managment in engineered and natural ecosystems"
+      \item Organization of internal workshops for the IUAP network and CMET
+      \item Guidance of 5 PhD students and 2 masters of science students
+      \item ARB/sILVA course "from primer to paper (P2P) (2016)"
+      \item TT skills course (Ugent TTO): research valorization, IP, bridge funding etc.
+      \item EBAME3: Workshop on Computational Microbial Ecogenomics (2017)
+    \end{itemize}
+\item \textbf{2011-2016: Doctoral thesis on sustainable methanotrophy}\\
+\textbf{Promotors}: prof. dr. ir. Nico Boon \& Dr. Kim Heylen \\
+\textbf{Funding}: Ghent University GOA (BOF09/GOA/005) and Belgian Science Policy IAP (BELSPO, P7/25)
+    \begin{itemize}
+      \item Academic papers as first author (see bibliography below, \cite{kerckhof2014optimized} and 2 submitted)
+      \item Guided master thesis and internship students
+      \item Teaching assistant in practical exercises molecular microbial techniques and microbial ecological processes.
+      \item Organizing internal courses on statistics, bio-informatics and version control
+    \end{itemize}
+\item \textbf{2011-2016: Ghent university doctoral schools}
+    \begin{itemize}
+      \item IVPV specialist course: Advanced statistical methods - nonparametric methods
+      \item IVPV specialist course: Advanced statistical methods - multivariate methods
+      \item FLAMES specialist course: Advanced R - Programming in R and beyond
+      \item Specialist course: UGent High Performance computing (Linux shell scripting, Python, HPC usage)
+      \item Specialist course: Introduction to MG-RAST
+    \end{itemize}
+\item \textbf{2006-2011: Msc. Bioscience engineering in cellular and genetic biotechnology, major computational biology at Ghent University}. 
+
+\end{itemize}
+
+
+
+\section*{Teaching experience}
+\subsection*{Practical exercises}
+\rule{\textwidth}{1pt}
+\begin{itemize}
+  \item 2011-2013 Practical exercises molecular microbial techniques (Msc Bioscience engineering)
+  \item 2013-2015 Practical exercises microbial ecological processes (Bsc Bioscience engineering)
+\end{itemize}
+\subsection*{Theory classes}
+\rule{\textwidth}{1pt}
+\begin{itemize}
+  \item 2016-2019 Co - teacher theory course molecular microbial techniques (Msc. Bioscience engineering) 
+\end{itemize}
+\subsection*{Internal training}
+\rule{\textwidth}{1pt}
+Training organized for all collaborators within CMET to enhance the quality of research of the group.
+\begin{itemize}
+  \item Amplicon NGS analysis: basic training for all collaborators on use of linux command line, mothur and R.
+  \item Statistics and experimental design: introduction to R, proper experimental design and one-way multiple comparisons.
+  \item Version control: use of Git/GitHub for collaborative code editing.
+\end{itemize}
+
+
+\subsection*{Entrepreneurial skills}
+\rule{\textwidth}{1pt}
+In gearing up towards the perspective spin-off company Kytos I took a few courses
+to make sure I would have the entrepreneurial skill-set to start a company.
+\begin{itemize}
+  \item Participated in business competitions: Cleantech challenge 2012 and Batle of Talents 2010
+  \item UGent TechTransfer TT-skills course: essentials of IP \& funding
+  \item UGent TechTransfer/Capture "disciplined entrepreneurship" course: semi-intensive program on getting from the idea to a start-up using the book "Disciplined entrepreneurship" by Bill Aulet
+  \item Thriving business community BaLinCa+: 2 day financial awareness and business experience course 
+  \item VOKA/UGent "from PhD to SME"
+  \item Vlerick Business school "Learn to speak business"
+\end{itemize}
+
+
+\section*{Online Presence}
+\rule{\textwidth}{1pt}
+\begin{itemize}
+  \item \href{https://www.linkedin.com/pub/frederiek-maarten-kerckhof/26/b47/668}{LinkedIn}
+  \item \href{https://www.researchgate.net/profile/Frederiek-Maarten_Kerckhof}{ResearchGate}
+  \item \href{http://www.researcherid.com/ProfileView.action?SID=V2bGbhtEe1TlsfIEXBz&returnCode=ROUTER.Success&queryString=KG0UuZjN5WlUD2sX8KoC12Tw17vPT2A6ocQ5tgzRDDI\%253D\&SrcApp=CR\&Init=Yes}{ResearcherID}
+  \item \href{http://orcid.org/0000-0002-4472-6810}{ORCID}
+  \item Contributor to stack Exchange fora (StackOverflow, CrossValidated, Ask Ubuntu, TeX)
+\end{itemize}
+
+\newpage
+\renewcommand{\refname}{Academic publications and conference proceedings} %(voor article)
+\renewcommand{\bibname}{Academic publications and conference proceedings} %(voor book en report)
+\nocite{*}
+
+\bibliography{citations}
+%\addbibresource{citations.bib}
+%\printbibliography
+\end{document}
